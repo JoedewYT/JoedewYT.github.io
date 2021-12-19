@@ -3,7 +3,6 @@ author: JoedewYT
 email: joeveraart@gmail.com
 minima:
   skin: dark
-  date_format: "%b %-d, %Y"
 description: > # this means to ignore newlines until "baseurl:"
   A blog about all sorts of stuff. from things i experienced to upcoming projects!
 
